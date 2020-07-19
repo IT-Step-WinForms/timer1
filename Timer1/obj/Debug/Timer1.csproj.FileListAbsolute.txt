@@ -1,0 +1,19 @@
+C:\Users\student\Downloads\Timer1\Timer1\bin\Debug\Timer1.exe.config
+C:\Users\student\Downloads\Timer1\Timer1\bin\Debug\Timer1.exe
+C:\Users\student\Downloads\Timer1\Timer1\bin\Debug\Timer1.pdb
+C:\Users\student\Downloads\Timer1\Timer1\obj\Debug\Timer1.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\Timer1\Timer1\obj\Debug\Timer1.Form1.resources
+C:\Users\student\Downloads\Timer1\Timer1\obj\Debug\Timer1.Properties.Resources.resources
+C:\Users\student\Downloads\Timer1\Timer1\obj\Debug\Timer1.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\Timer1\Timer1\obj\Debug\Timer1.exe
+C:\Users\student\Downloads\Timer1\Timer1\obj\Debug\Timer1.pdb
+c:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\02\Timer1\Timer1\bin\Debug\Timer1.exe.config
+c:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\02\Timer1\Timer1\bin\Debug\Timer1.exe
+c:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\02\Timer1\Timer1\bin\Debug\Timer1.pdb
+c:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\02\Timer1\Timer1\obj\Debug\Timer1.csprojAssemblyReference.cache
+c:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\02\Timer1\Timer1\obj\Debug\Timer1.Form1.resources
+c:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\02\Timer1\Timer1\obj\Debug\Timer1.Properties.Resources.resources
+c:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\02\Timer1\Timer1\obj\Debug\Timer1.csproj.GenerateResource.cache
+c:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\02\Timer1\Timer1\obj\Debug\Timer1.csproj.CoreCompileInputs.cache
+c:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\02\Timer1\Timer1\obj\Debug\Timer1.exe
+c:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\02\Timer1\Timer1\obj\Debug\Timer1.pdb
